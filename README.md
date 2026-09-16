@@ -2,7 +2,6 @@
 
 **Nombre:** Joycel Otoniel Pérez Nieves
 **Matrícula:** 2026-0703
-**Sección:** COMPLETAR
 **Carrera:** Tecnólogo en Ciberseguridad
 
 ## Índice de temas
