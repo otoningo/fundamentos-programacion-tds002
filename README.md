@@ -10,3 +10,4 @@
 - [02. Variables y tipos de datos](./02-Variables)
 - [Evaluación 02. Programas con variables y tipos de datos](./Evaluacion02)
 - [03. Operadores y expresiones](./03-Operadores)
+- [04. Estructura secuencial](./04-Secuencial)
