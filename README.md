@@ -8,3 +8,4 @@
 
 - [01. Hola Mundo y presentación](./01-HolaMundo)
 - [02. Variables y tipos de datos](./02-Variables)
+- [Evaluación 02. Programas con variables y tipos de datos](./Evaluacion02)
