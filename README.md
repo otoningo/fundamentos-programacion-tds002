@@ -15,3 +15,4 @@
 - [06. Estructuras de decisión](./06-Decisiones)
 - [07. Ciclos while y do-while](./07-Ciclos)
 - [Evaluación 05. Programas con ciclos while y do-while](./Evaluacion05)
+- [08. Ciclo for, ciclos anidados y menús](./08-For-Menus)
