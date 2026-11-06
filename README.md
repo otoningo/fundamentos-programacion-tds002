@@ -12,3 +12,4 @@
 - [03. Operadores y expresiones](./03-Operadores)
 - [04. Estructura secuencial](./04-Secuencial)
 - [Evaluación 03. Programas secuenciales](./Evaluacion03)
+- [06. Estructuras de decisión](./06-Decisiones)
