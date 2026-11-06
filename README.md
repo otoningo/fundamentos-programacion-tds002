@@ -7,3 +7,4 @@
 ## Índice de temas
 
 - [01. Hola Mundo y presentación](./01-HolaMundo)
+- [02. Variables y tipos de datos](./02-Variables)
